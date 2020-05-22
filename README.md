@@ -9,3 +9,7 @@ This playground is an **accepted** submission for the WWDC18 Scholarship and fea
 ## Credits
 - SpriteKit Analog Stick by [MitrophD](https://github.com/MitrophD)
 - "Nice Kitty" by [Cimba](https://cimba.newgrounds.com/)
+
+## Other Submissions
+- WWDC20: [Beat](https://github.com/renanmagagnin/beat-wwdc20)
+- WWDC19: [Mindblower](https://github.com/renanmagagnin/mindblower-wwdc19)
