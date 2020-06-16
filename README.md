@@ -13,3 +13,8 @@ This playground is an **accepted** submission for the WWDC18 Scholarship and fea
 ## Other Submissions
 - WWDC20: [Beat](https://github.com/renanmagagnin/beat-wwdc20)
 - WWDC19: [Mindblower](https://github.com/renanmagagnin/mindblower-wwdc19)
+
+## Screenshots
+![Screenshot1](Screenshot1.jpg)
+![Screenshot2](Screenshot2.jpg)
+![Screenshot3](Screenshot3.jpg)
